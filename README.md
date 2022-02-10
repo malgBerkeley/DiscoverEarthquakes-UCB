@@ -1,2 +1,2 @@
 # Discover-Earthquake-UCB
-# Hello, welcome to our discovery project!
+# Hello, welcome to our Discovery project!
